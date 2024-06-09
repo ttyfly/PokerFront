@@ -2,3 +2,6 @@
 	path = external/SDL
 	url = git@github.com:libsdl-org/SDL.git
 	branch = main
+[submodule "external/ark-pixel-font"]
+	path = external/ark-pixel-font
+	url = git@github.com:TakWolf/ark-pixel-font.git
